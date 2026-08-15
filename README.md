@@ -13,4 +13,4 @@ reverse engineering programs and hardware and rebuilding them to my tastes.
 
 ## Where to find me
 
-- **Discord:** `_brokeskill_` - DMs are always open. Bring bugs, bad ideas, or questions.
+- **Discord:** _brokeskill_ - DMs are always open. Bring bugs, bad ideas, or questions.
