@@ -7,9 +7,9 @@ reverse engineering programs and hardware and rebuilding them to my tastes.
 
 ## What I'm into
 
--  **Reverse engineering** - Taking apart mods and hardware to see how they actually work
--  **Robotics** - currently tinkering with an robot arm :)
--  **AI** - hooking LLMs into small, practical tools
+-  **Reverse engineering**
+-  **Robotics**
+-  **AI**
 
 ## Where to find me
 
